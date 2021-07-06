@@ -77,7 +77,7 @@ h2{
 }
 .my-recipies{
     position: absolute;
-    top: 200%;
+    top: 180%;
 }
 .text-allaignment{
     text-align: center;
@@ -101,4 +101,10 @@ h2{
 #box-allaignment{
     margin-left: 12%;
     margin-bottom: 5%;
+}
+footer{
+    text-align: center;
+  padding: 3px;
+  background-color: DarkSalmon;
+  color: white;
 }
