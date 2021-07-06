@@ -54,6 +54,7 @@ header h2{
 }
 p{
     color: rgb(117, 107, 107);
+    padding: 10px;
 }
 .half-width a{
     text-decoration: none;
@@ -63,5 +64,41 @@ p{
     color: whitesmoke;
 }
 .link-button{
-    padding-top: 8%;
+    padding-top: 5%;
+}
+.about-me{
+    position: absolute;
+    top: 100%;
+    background-image: url(images/shapes/aboutme-background.png);
+    padding-right: 10%;
+}
+h2{
+    color: rgb(117, 107, 107);
+}
+.my-recipies{
+    position: absolute;
+    top: 200%;
+}
+.text-allaignment{
+    text-align: center;
+}
+.one-third-width{
+    width: 22%;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+.container-allaignment{
+    box-shadow: 5px 5px 30px 5px rgb(197, 192, 192);
+    border-radius: 20px;
+}
+.one-third-width img{
+    width: 90%;
+    position: relative;
+    left: 12px;
+    top: 15px;
+    padding-bottom: 5%;
+}
+#box-allaignment{
+    margin-left: 12%;
+    margin-bottom: 5%;
 }
